@@ -1,0 +1,7 @@
+host: '219.228.135.107'
+port: 8848
+namespace: '1eccfc57-da89-48b2-a7cd-61284a789826'
+user: 'nacos'
+password: 'nacos'
+dataId: 'user-web.yaml'
+group: 'dev'

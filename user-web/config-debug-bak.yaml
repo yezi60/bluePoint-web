@@ -1,0 +1,32 @@
+name: 'user-web'
+port: 8021
+
+user_srv:
+  name: 'user_srv'
+  host: '172.20.175.118'
+  port: 50051
+
+sms:
+  key: 'hw_11032'
+  secret: 'e890c2f23cc909276b9e05d251e6b3d8'
+  expire: 300
+
+redis:
+  host: '219.228.135.107'
+  port: 16379
+
+jwt:
+  key: 'd到fallcome9yueb，whenmyhanokai其他huaalldie_(:з」∠)_'
+
+consul:
+  host: '219.228.135.107'
+  port: 8500
+
+nacos:
+  host: '219.228.135.107'
+  port: 8848
+  namespace: '1eccfc57-da89-48b2-a7cd-61284a789826'
+  user: 'nacos'
+  password: 'nacos'
+  dataId: 'user-web.yaml'
+  group: 'dev'
